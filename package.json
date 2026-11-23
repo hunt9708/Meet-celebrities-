@@ -1,0 +1,12 @@
+{
+  "name": "celebrity-meet",
+  "version": "1.0.0",
+  "description": "Website where people choose which celebrity they want to meet. You see all choices on your own backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
